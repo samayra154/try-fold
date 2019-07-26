@@ -1,0 +1,121 @@
+/*Author:kazi mashud;
+Author info: poricetoit@gmail.com;*/
+
+
+/*
+-----index-------
+    1.Header Section
+    2.Hero Secton
+    3.Fusce
+    4.
+    5.
+    6.
+    7.
+    8. Footer
+    */
+
+
+/*Global css*/
+
+.img-center {
+    display: block;
+    margin: 0 auto;
+}
+
+section {
+    padding: 50px 0px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3 {
+	text-align: center;
+	font-size: 25px;
+	margin-top: 20px;
+}
+
+p {
+	text-align: center;
+	font-size: 13px;
+	margin-top: 15px;
+	
+}
+.no-padding{
+	padding: 0px;
+}
+.title{
+	text-align: center;
+	color: #fff;
+	
+}
+.btn{
+	padding: 10px 25px;
+	background-color:white;
+    margin: 0 auto;
+	margin: 50px auto;
+	text-transform: capitalize;
+}
+
+
+/*Theme Css*/
+
+.navbar {
+
+	background-color:  #fff;
+	padding: 20px 0;
+}
+
+.nav-link {
+	color: #72747a;
+}
+
+}
+
+.nav-link.js-scroll-trigger.active {
+	background-color: #dd4b2b;
+	border-radius: 35px;
+	padding: 4px 20px;
+	color: #fff;
+}
+
+
+.hero{
+	
+	background:url(../img/banner.jpg)no-repeat;
+	background-size:cover;
+}
+
+
+.hero-box{
+    color: black;
+    font-family: Lato;
+    text-align: center;
+}
+.hero-box h1 {
+    font-size: 100px;
+    font-weight: bold;
+    padding: 28px 0px;
+    margin: 146px 65px 0px 65px;
+}
+.hero-box p {
+    font-size: 18px;
+    margin: 39px 0;
+}
+
+
+.mash-box img{
+	margin:0 auto;
+	padding-left: 230px;
+}
+
+
+.social {
+	width:100%;
+	float:left;
+	background: url(../img/social.png)no-repeat;
+	background-image: cover;
+	
+
+}
